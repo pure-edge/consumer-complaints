@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217032753003",
+    "firebase_url": "https://bilecoapp-637a3.firebaseio.com",
+    "project_id": "bilecoapp-637a3",
+    "storage_bucket": "bilecoapp-637a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217032753003:android:3f65cfa8a4ec7bdd09162e",
+        "android_client_info": {
+          "package_name": "com.example.logingps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217032753003-n4bdfd8dp1jl0dmce0nginbogjl5j6al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKHkgQlIco_nQxbae7i4sp1WH9-LFgSaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217032753003-n4bdfd8dp1jl0dmce0nginbogjl5j6al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

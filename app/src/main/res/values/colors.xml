@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2a3c58</color>
+    <color name="colorPrimaryLight">#556685</color>
+    <color name="colorPrimaryDark">#00162f</color>
+    <color name="fade_colorPrimary">#552a3c58</color>
+
+    <color name="colorAccent">#f4de15</color>
+    <color name="colorAccentLight">#ffff59</color>
+    <color name="colorAccentDark">#bdad00</color>
+
+
+    <color name="yellow">#f4de15</color>
+    <color name="dark_yellow">#bdad00</color>
+    <color name="fade_yellow">#55f4de15</color>
+    <color name="green">#00cc00</color>
+    <color name="green_dark">#007f00</color>
+    <color name="red">#ff4d4d</color>
+    <color name="red_dark">#b30000</color>
+
+</resources>
